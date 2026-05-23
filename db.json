@@ -1,0 +1,53 @@
+{
+  "students": [
+    {
+      "name": "Nirmal. J",
+      "email": "nirmal@gmail.com",
+      "phone": "6667898999",
+      "course": "B.Tech",
+      "id": "67PCoA3VuwY",
+      "location": "Chennai"
+    },
+    {
+      "name": "Pallavi. A",
+      "email": "pallavi@gmail.com",
+      "phone": "8888999984",
+      "course": "B.Sc",
+      "location": "Bangalore",
+      "id": "LaWRiACWlx0"
+    },
+    {
+      "name": "Santhi. J",
+      "email": "santhi@gmail.com",
+      "phone": "6984999998",
+      "course": "B.com",
+      "location": "Chennai",
+      "id": "HC0TZMOdV_s"
+    },
+    {
+      "name": "Akilan. N",
+      "email": "akilan12@gmail.com",
+      "phone": "9098688890",
+      "course": "B.com",
+      "location": "Delhi",
+      "id": "cbZnAp_aI_s"
+    },
+    {
+      "name": "Jothinathan. S",
+      "email": "jothinathan@gmail.com",
+      "phone": "6689998767",
+      "course": "B.Ca",
+      "location": "Chennai",
+      "id": "XewPBwznT8s"
+    },
+    {
+      "name": "Teju. N",
+      "email": "teju12@gmail.com",
+      "phone": "7777888888",
+      "course": "M.ba",
+      "location": "Bangalore",
+      "id": "3xJbmMgUn2s"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
