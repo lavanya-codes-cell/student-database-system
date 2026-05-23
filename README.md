@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -44,3 +45,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+=======
+# student-database-system
+A React and TypeScript based Student Management System that performs CRUD operations using REST API and JSON Server. Users can add, view, update, and delete student records through a responsive and user-friendly interface.
+>>>>>>> e272bd8a55ea24a0495259b6a65801e1fba1dffa
